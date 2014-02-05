@@ -1,4 +1,3 @@
-asi
-===
+## Architektura Serwisów Internetowych 2013/14
 
-Strona z projektami na zaliczenie i egzamin z przedmiotu „Architektura Serwisów Internetowych”
+TODO
