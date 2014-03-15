@@ -6,7 +6,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architekt
 ### Wasze projekty
 
 1. Acewicz-Hepfner, Patryk.
-1. Bednarczyk, Marek.
+1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit), [#1](http://mygistsmbednarczyk.herokuapp.com/ ).
 1. Bigda, Piotr.
 1. Borkowski, Maciej.
 1. Buda, Marta.
