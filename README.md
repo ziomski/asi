@@ -53,7 +53,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architekt
 1. Rękawek, Szymon.
 1. Rzeszuto, Agnieszka.
 1. Sielachowicz, Paweł.
-1. Sienkiewicz, Daniel.
+1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond), [#3](http://asisecond.herokuapp.com/).
 1. Sikora, Jacek.
 1. Skałkowski, Michał.
 1. Skarżyński, Łukasz.
