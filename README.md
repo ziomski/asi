@@ -27,7 +27,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architekt
 1. Kołek, Maciej.
 1. Komorowski, Szymon.
 1. Korszuń, Kacper.
-1. Kucharski, Maciej.
+1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2), [#4](http://my-gists.herokuapp.com/ ).
 1. Kurnyta, Przemysław.
 1. Kwiatkowski, Dominik.
 1. Labuda, Damian.
