@@ -14,7 +14,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Buda, Marta.
 1. Chraniuk, Mateusz.
 1. Cimoch, Jarosław.
-1. Czechowicz, Kacper.
+1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp), [#1](http://kczechowicz-gists.herokuapp.com/).
 1. Czerwińska, Agnieszka.
 1. Dargacz, Mateusz.
 1. Dąbrowski, Arkadiusz.
