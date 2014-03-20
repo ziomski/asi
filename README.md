@@ -38,7 +38,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Leyk, Szymon.
 1. Lipowski, Michał.
 1. Litke, Sabina.
-1. Ławicki, Patryk.
+1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries), [#1](http://mybeanaries.herokuapp.com/).
 1. Maciejewski, Michał.
 1. Mańkowska, Monika.
 1. Marciniak, Paulina.
