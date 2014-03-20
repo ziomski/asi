@@ -47,7 +47,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Nowak, Wojciech.
 1. Nowicki, Jakub.
 1. Ochędzan, Krzysztof.
-1. [Ossowski, Marcin](https://github.com/mossowski/my_gists),[#1](http://mossowski-gists.herokuapp.com/).
+1. [Ossowski, Marcin](https://github.com/mossowski/my_gists), [#1](http://mossowski-gists.herokuapp.com/).
 1. Pieniążczak, Jan.
 1. Piotrkowski, Łukasz.
 1. Plenis, Jakub.
