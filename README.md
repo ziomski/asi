@@ -22,7 +22,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Gąsior, Łukasz.
 1. Janowski, Arkadiusz.
 1. Jaworowski, Michał.
-1. Józwiak, Roman.
+1. [Józwiak, Roman](https://github.com/gruchanet/snippeter), [#1](http://snippeter-app.herokuapp.com/).
 1. Kadłubowski, Paweł.
 1. Karolczak, Jakub.
 1. Kąkol, Jan.
