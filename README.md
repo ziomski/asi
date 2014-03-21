@@ -23,7 +23,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Janowski, Arkadiusz.
 1. Jaworowski, Michał.
 1. [Józwiak, Roman](https://github.com/gruchanet/snippeter), [#1](http://snippeter-app.herokuapp.com/).
-1. Kadłubowski, Paweł.
+1. Kadłubowski, Paweł.(https://github.com/kpawel-29/my_gists_with_bootstrap), [#1](http://gistmaster.herokuapp.com/).
 1. Karolczak, Jakub.
 1. Kąkol, Jan.
 1. Kołek, Maciej.
