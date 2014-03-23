@@ -53,7 +53,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Piotrkowski, Łukasz.
 1. Plenis, Jakub.
 1. Podgórski, Mirosław.
-1. Rękawek, Szymon.
+1. [Rękawek, Szymon](https://github.com/waveq/MyGists), [#1](http://mygistsszymonrekawek.herokuapp.com/).
 1. Rzeszuto, Agnieszka.
 1. Sielachowicz, Paweł.
 1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond), [#3](http://asisecond.herokuapp.com/).
