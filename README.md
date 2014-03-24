@@ -70,5 +70,5 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Zawadzki, Dawid.
 1. Zbierowski, Maciej.
 1. Żelazek, Mateusz.
-1. Żuchowski, Sebastian.
-1. Żynis, Przemysław.
+1. Żuchowski, Sebastian
+1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git)
