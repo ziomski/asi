@@ -13,7 +13,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Borkowski, Maciej.
 1. Buda, Marta.
 1. Chraniuk, Mateusz.
-1. Cimoch, Jarosław.
+1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists), [#1](http://jcimoch-gists.herokuapp.com/).
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp), [#1](http://kczechowicz-gists.herokuapp.com/).
 1. Czerwińska, Agnieszka.
 1. Dargacz, Mateusz.
