@@ -18,7 +18,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Czerwińska, Agnieszka.
 1. Dargacz, Mateusz.
 1. Dąbrowski, Arkadiusz.
-1. Gafka, Dariusz.
+1. [Gafka, Dariusz](https://github.com/dgafka/my_gists), [#1](http://evening-everglades-2118.herokuapp.com/).
 1. Gąsior, Łukasz.
 1. Janowski, Arkadiusz.
 1. Jaworowski, Michał.
