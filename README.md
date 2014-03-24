@@ -49,7 +49,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Ochędzan, Krzysztof.
 1. [Ossowski, Marcin](https://github.com/mossowski/my_gists), [#1](http://mossowski-gists.herokuapp.com/).
 1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production), [#1](http://notateczki.herokuapp.com/).
-1. Pieniążczak, Jan.
+1. [Pieniążczak, Jan](https://github.com/Pelen/books2), [#3](http://pelen.herokuapp.com/).
 1. Piotrkowski, Łukasz.
 1. Plenis, Jakub.
 1. Podgórski, Mirosław.
