@@ -67,6 +67,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Szklarska, Milena.
 1. Szynkaruk, Kamil.
 1. Wittbrodt, Łukasz.
+2. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-), [#2](http://horoku-test-todo-list-app.herokuapp.com).
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists), [#1](http://dzawadzki-app.herokuapp.com/).
 1. Zbierowski, Maciej.
 1. Żelazek, Mateusz.
