@@ -43,7 +43,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Mańkowska, Monika.
 1. Marciniak, Paulina.
 1. Masztarowski, Sebastian.
-1. Miś, Maciej.
+1. [Miś, Maciej](https://github.com/MacMisDev/gists), [#1](http://mmgists.heroku.com/).
 1. Nowak, Wojciech.
 1. Nowicki, Jakub.
 1. Ochędzan, Krzysztof.
