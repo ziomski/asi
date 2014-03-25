@@ -27,7 +27,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists), [#1](http://mygists-jkarolczak.herokuapp.com/).
 1. Kąkol, Jan.
 1. Kołek, Maciej.
-1. Komorowski, Szymon.
+1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists), [#1](http://szykom-my-gists.herokuapp.com/).
 1. Korszuń, Kacper.
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2), [#1](http://my-gists.herokuapp.com/ ).
 1. Kurnyta, Przemysław.
