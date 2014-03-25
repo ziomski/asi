@@ -58,7 +58,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Sielachowicz, Paweł.
 1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond), [#3](http://asisecond.herokuapp.com/).
 1. [Sikora, Jacek](https://github.com/jaresh/my_videos), [#3](http://jsvideos.herokuapp.com/).
-1. Skałkowski, Michał.
+1. [Skałkowski, Michał](https://github.com/Michaldwadwa/projekt1-rails), [#1](http://projekcik1.herokuapp.com/).
 1. [Skarżyński, Łukasz](https://github.com/LukSkarDev/railsapp), [#1](http://lsgists.herokuapp.com/gists).
 1. Stasiak, Sebastian.
 1. Stenka, Dominik.
