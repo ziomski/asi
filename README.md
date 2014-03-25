@@ -25,7 +25,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. [Józwiak, Roman](https://github.com/gruchanet/snippeter), [#1](http://snippeter-app.herokuapp.com/).
 1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap), [#1](http://gistmaster.herokuapp.com/).
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists), [#1](http://mygists-jkarolczak.herokuapp.com/).
-1. Kąkol, Jan.
+1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist), [#1](http://jankkolgists.herokuapp.com/gists).
 1. Kołek, Maciej.
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists), [#1](http://szykom-my-gists.herokuapp.com/).
 1. Korszuń, Kacper.
