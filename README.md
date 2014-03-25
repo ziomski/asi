@@ -33,7 +33,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Kurnyta, Przemysław.
 1. Kwiatkowski, Dominik.
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists), [#1](http://damlab.herokuapp.com/).
-1. Lamkiewicz, Krzysztof.
+1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist), [#1](http://mojegisty.herokuapp.com/).
 1. Leśniak, Michał.
 1. Leyk, Szymon.
 1. Lipowski, Michał.
