@@ -42,7 +42,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Maciejewski, Michał.
 1. Mańkowska, Monika.
 1. Marciniak, Paulina.
-1. Masztarowski, Sebastian.
+1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty), [#1](http://smasztarowskigists.herokuapp.com/).
 1. [Miś, Maciej](https://github.com/MacMisDev/gists), [#1](http://mmgists.heroku.com/).
 1. Nowak, Wojciech.
 1. Nowicki, Jakub.
